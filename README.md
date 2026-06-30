@@ -1,2 +1,2 @@
-# shopmoa-app
-쇼핑리스트 모아서 저장
+# shoplog-app
+쇼핑내역을 log 저장
